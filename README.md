@@ -9,7 +9,6 @@
 ### Connect with me:
 
 [![LinkedIn](https://www.linkedin.com/in/sirine-hamdi-6789681b4/)](https://www.linkedin.com)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 
