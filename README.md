@@ -1,18 +1,14 @@
 # Hi there, I'm Sirine 👋 
 
-[![LinkedIn](https://www.linkedin.com/in/sirine-hamdi-6789681b4/)](https://www.linkedin.com)
-
 ## I'm a Student!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🥅 2022 Goals: Learn more about machine learning
+- ⚡ Fun fact: I love travelling and play video video games
 
 ### Connect with me:
 
+[![LinkedIn](https://www.linkedin.com/in/sirine-hamdi-6789681b4/)](https://www.linkedin.com)
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
