@@ -6,11 +6,6 @@
 - 🥅 2022 Goals: Learn more about machine learning
 - ⚡ Fun fact: I love travelling and play video video games
 
-<br />
-<br />
-
----
-
 ### Connect with me:
 
 [![LinkedIn](https://www.linkedin.com/in/sirine-hamdi-6789681b4/)](https://www.linkedin.com)
@@ -20,11 +15,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-
-<br />
-<br />
-
----
 
 ### Languages and Tools:
 
